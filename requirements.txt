@@ -1,0 +1,10 @@
+pandas
+gensim
+spacy
+textblob
+python-terrier
+transformers
+scikit-learn
+matplotlib
+huggingface-hub
+torch
